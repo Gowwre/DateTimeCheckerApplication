@@ -1,0 +1,6 @@
+E:\FPTU\Chuyen Nganh 5\SWT301\Lab 4\DateTimeCheckerApplication\DateTimeChecker\bin\Debug\DateTimeChecker.dll
+E:\FPTU\Chuyen Nganh 5\SWT301\Lab 4\DateTimeCheckerApplication\DateTimeChecker\bin\Debug\DateTimeChecker.pdb
+E:\FPTU\Chuyen Nganh 5\SWT301\Lab 4\DateTimeCheckerApplication\DateTimeChecker\obj\Debug\DateTimeChecker.csprojAssemblyReference.cache
+E:\FPTU\Chuyen Nganh 5\SWT301\Lab 4\DateTimeCheckerApplication\DateTimeChecker\obj\Debug\DateTimeChecker.csproj.CoreCompileInputs.cache
+E:\FPTU\Chuyen Nganh 5\SWT301\Lab 4\DateTimeCheckerApplication\DateTimeChecker\obj\Debug\DateTimeChecker.dll
+E:\FPTU\Chuyen Nganh 5\SWT301\Lab 4\DateTimeCheckerApplication\DateTimeChecker\obj\Debug\DateTimeChecker.pdb

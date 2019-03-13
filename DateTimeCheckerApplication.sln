@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTimeCheckerApplication", "DateTimeCheckerApplication\DateTimeCheckerApplication.csproj", "{F6EC2021-F2A4-4F92-859F-AC382111B92F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTimeChecker", "DateTimeChecker\DateTimeChecker.csproj", "{219DAB6F-31BD-4CF2-BC37-AF9F680B5D90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6EC2021-F2A4-4F92-859F-AC382111B92F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6EC2021-F2A4-4F92-859F-AC382111B92F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6EC2021-F2A4-4F92-859F-AC382111B92F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6EC2021-F2A4-4F92-859F-AC382111B92F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{219DAB6F-31BD-4CF2-BC37-AF9F680B5D90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{219DAB6F-31BD-4CF2-BC37-AF9F680B5D90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{219DAB6F-31BD-4CF2-BC37-AF9F680B5D90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{219DAB6F-31BD-4CF2-BC37-AF9F680B5D90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2A2984C-5FF3-43DF-BA95-18F00BE3F8A5}
+	EndGlobalSection
+EndGlobal
