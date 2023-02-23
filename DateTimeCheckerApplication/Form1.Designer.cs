@@ -45,9 +45,9 @@
             // pictureBox1
             // 
             this.pictureBox1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("pictureBox1.BackgroundImage")));
-            this.pictureBox1.Location = new System.Drawing.Point(13, 13);
+            this.pictureBox1.Location = new System.Drawing.Point(208, 12);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(311, 101);
+            this.pictureBox1.Size = new System.Drawing.Size(237, 88);
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
             // 
@@ -58,7 +58,7 @@
             this.label1.ForeColor = System.Drawing.Color.Blue;
             this.label1.Location = new System.Drawing.Point(161, 145);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(330, 52);
+            this.label1.Size = new System.Drawing.Size(329, 52);
             this.label1.TabIndex = 1;
             this.label1.Text = "Date Time Checker";
             // 
@@ -67,7 +67,7 @@
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(218, 217);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(33, 17);
+            this.label2.Size = new System.Drawing.Size(32, 16);
             this.label2.TabIndex = 2;
             this.label2.Text = "Day";
             // 
@@ -76,7 +76,7 @@
             this.label3.AutoSize = true;
             this.label3.Location = new System.Drawing.Point(218, 267);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(47, 17);
+            this.label3.Size = new System.Drawing.Size(43, 16);
             this.label3.TabIndex = 3;
             this.label3.Text = "Month";
             // 
@@ -85,7 +85,7 @@
             this.label4.AutoSize = true;
             this.label4.Location = new System.Drawing.Point(218, 314);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(38, 17);
+            this.label4.Size = new System.Drawing.Size(36, 16);
             this.label4.TabIndex = 4;
             this.label4.Text = "Year";
             // 

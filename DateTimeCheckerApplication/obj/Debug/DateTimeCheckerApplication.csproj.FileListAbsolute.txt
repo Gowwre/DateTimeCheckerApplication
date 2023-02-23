@@ -11,3 +11,17 @@ E:\FPTU\Chuyen Nganh 5\SWT301\Lab 4\DateTimeCheckerApplication\DateTimeCheckerAp
 E:\FPTU\Chuyen Nganh 5\SWT301\Lab 4\DateTimeCheckerApplication\DateTimeCheckerApplication\bin\Debug\DateTimeChecker.dll
 E:\FPTU\Chuyen Nganh 5\SWT301\Lab 4\DateTimeCheckerApplication\DateTimeCheckerApplication\bin\Debug\DateTimeChecker.pdb
 E:\FPTU\Chuyen Nganh 5\SWT301\Lab 4\DateTimeCheckerApplication\DateTimeCheckerApplication\obj\Debug\DateTimeCheckerApplication.csproj.CopyComplete
+D:\SWT301\DateTimeCheckerApplication\DateTimeCheckerApplication\bin\Debug\DateTimeCheckerApplication.exe.config
+D:\SWT301\DateTimeCheckerApplication\DateTimeCheckerApplication\bin\Debug\DateTimeCheckerApplication.exe
+D:\SWT301\DateTimeCheckerApplication\DateTimeCheckerApplication\bin\Debug\DateTimeCheckerApplication.pdb
+D:\SWT301\DateTimeCheckerApplication\DateTimeCheckerApplication\bin\Debug\DateTimeChecker.dll
+D:\SWT301\DateTimeCheckerApplication\DateTimeCheckerApplication\bin\Debug\DateTimeChecker.pdb
+D:\SWT301\DateTimeCheckerApplication\DateTimeCheckerApplication\obj\Debug\DateTimeCheckerApplication.csproj.AssemblyReference.cache
+D:\SWT301\DateTimeCheckerApplication\DateTimeCheckerApplication\obj\Debug\DateTimeCheckerApplication.csproj.SuggestedBindingRedirects.cache
+D:\SWT301\DateTimeCheckerApplication\DateTimeCheckerApplication\obj\Debug\DateTimeCheckerApplication.Form1.resources
+D:\SWT301\DateTimeCheckerApplication\DateTimeCheckerApplication\obj\Debug\DateTimeCheckerApplication.Properties.Resources.resources
+D:\SWT301\DateTimeCheckerApplication\DateTimeCheckerApplication\obj\Debug\DateTimeCheckerApplication.csproj.GenerateResource.cache
+D:\SWT301\DateTimeCheckerApplication\DateTimeCheckerApplication\obj\Debug\DateTimeCheckerApplication.csproj.CoreCompileInputs.cache
+D:\SWT301\DateTimeCheckerApplication\DateTimeCheckerApplication\obj\Debug\DateTimeCheckerApplication.csproj.CopyComplete
+D:\SWT301\DateTimeCheckerApplication\DateTimeCheckerApplication\obj\Debug\DateTimeCheckerApplication.exe
+D:\SWT301\DateTimeCheckerApplication\DateTimeCheckerApplication\obj\Debug\DateTimeCheckerApplication.pdb
