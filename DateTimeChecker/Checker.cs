@@ -8,9 +8,18 @@ namespace DateTimeChecker
 {
     public class Checker
     {
-        public byte DaysInMonth(ushort year, byte month)
+        public int DaysInMonth(int? year, int? month)
         {
-            if (month == 1 || month == 3 || month == 5 || month == 7 || month == 8 || month == 10 || month == 12)
+            if (!year.HasValue || !month.HasValue)
+            {
+                return 0;
+            }
+
+            if (year < 1000 || year > 3000)
+            {
+                return 0;
+            }
+            else if (month == 1 || month == 3 || month == 5 || month == 7 || month == 8 || month == 10 || month == 12)
             {
                 return 31;
             }
@@ -41,10 +50,21 @@ namespace DateTimeChecker
             {
                 return 0;
             }
-        } // End DaysInMonth.
+        }
 
-        public bool IsValidDate(ushort year, byte month, byte day)
+
+        public bool IsValidDate(int? year, int? month, int? day)
         {
+            if (day==null||month==null||year==null)
+            {
+                return false;
+            }
+
+            if (year < 1000 || year > 3000)
+            {
+                return false;
+            }
+
             if (month >= 1 && month <= 12)
             {
                 if (day >= 1)
@@ -67,6 +87,7 @@ namespace DateTimeChecker
             {
                 return false;
             }
-        } // End IsValidDate.
+        }
+
     }
 }

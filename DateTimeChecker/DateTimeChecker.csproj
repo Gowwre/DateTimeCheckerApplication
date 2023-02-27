@@ -52,6 +52,7 @@
     <Compile Include="Checker.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Test\DaysInMonthTest.cs" />
+    <Compile Include="Test\IsValidDateTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
