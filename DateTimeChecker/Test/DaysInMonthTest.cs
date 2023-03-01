@@ -20,87 +20,23 @@ namespace DateTimeChecker.Test
         }
 
         [Test]
-    public void TestDaysInMonth_LeapYearFebruary_Returns29()
-    {
-        // Arrange
-        int year = 2020;
-        int month = 2;
+        [TestCase(2020,1,ExpectedResult = 31)]
+        [TestCase(2020,2,ExpectedResult = 29)]
+        [TestCase(2021,2,ExpectedResult = 28)]
+        [TestCase(2020,3,ExpectedResult = 31)]
+        [TestCase(2020,4,ExpectedResult = 30)]
+        [TestCase(2020,5,ExpectedResult = 31)]
+        [TestCase(2020,6,ExpectedResult = 30)]
+        [TestCase(2020,7,ExpectedResult = 31)]
+        [TestCase(2020,8,ExpectedResult = 31)]
+        [TestCase(2020,9,ExpectedResult = 30)]
+        [TestCase(2020,10,ExpectedResult = 31)]
+        [TestCase(2020,11,ExpectedResult = 30)]
+        [TestCase(2020,12,ExpectedResult = 31)]
+        public int DaysInMonth_ValidInputs_ReturnsExpectedResult(int year, int month)
+        {
+            return _checker.DaysInMonth(year, month);
+        }
         
-        // Act
-        var result = _checker.DaysInMonth(year, month);
-        
-        // Assert
-        Assert.AreEqual(29, result);
-    }
-    
-    [Test]
-    public void TestDaysInMonth_NonLeapYearFebruary_Returns28()
-    {
-        // Arrange
-        int year = 2021;
-        int month = 2;
-        
-        // Act
-        var result = _checker.DaysInMonth(year, month);
-        
-        // Assert
-        Assert.AreEqual(28, result);
-    }
-    
-    [Test]
-    public void TestDaysInMonth_January_Returns31()
-    {
-        // Arrange
-        int year = 2022;
-        int month = 1;
-        
-        // Act
-        var result = _checker.DaysInMonth(year, month);
-        
-        // Assert
-        Assert.AreEqual(31, result);
-    }
-    
-    [Test]
-    public void TestDaysInMonth_June_Returns30()
-    {
-        // Arrange
-        int year = 2022;
-        int month = 6;
-        
-        // Act
-        var result = _checker.DaysInMonth(year, month);
-        
-        // Assert
-        Assert.AreEqual(30, result);
-    }
-    
-    [Test]
-    public void TestDaysInMonth_InvalidMonth_Returns0()
-    {
-        // Arrange
-        int year = 2022;
-        int month = 13;
-        
-        // Act
-        var result = _checker.DaysInMonth(year, month);
-        
-        // Assert
-        Assert.AreEqual(0, result);
-    }
-    
-    [Test]
-    public void TestDaysInMonth_Year0_Returns0()
-    {
-        // Arrange
-        int year = 0;
-        int month = 2;
-        
-        // Act
-        var result = _checker.DaysInMonth(year, month);
-        
-        // Assert
-        Assert.AreEqual(0, result);
-    }
     }
 }

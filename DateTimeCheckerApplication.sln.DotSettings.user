@@ -1,0 +1,7 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4c38ad46_002Def12_002D4ac0_002D85af_002D2b1fc0d1e21d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="DaysInMonthTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::219DAB6F-31BD-4CF2-BC37-AF9F680B5D90::.NETFramework,Version=v4.8::DateTimeChecker.Test.DaysInMonthTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::219DAB6F-31BD-4CF2-BC37-AF9F680B5D90::.NETFramework,Version=v4.8::DateTimeChecker.Test.IsValidDateTest.IsValidDate_ValidInputs_ReturnsExpectedResult&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
